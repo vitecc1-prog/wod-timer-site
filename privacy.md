@@ -1,6 +1,6 @@
 # Политика конфиденциальности — WOD Timer
 
-_Обновлено: 10 ноября 2026 г._
+_Обновлено: 10 ноября 2026 г. (добавлен ИИ-ассистент)_
 
 **[Русский](#русский) · [Українська](#українська) · [English](#english)**
 
@@ -11,6 +11,8 @@ WOD Timer не собирает, не передаёт и не продаёт в
 **Что хранится на устройстве.** Настройки тренировки (круги, время работы и отдыха, названия упражнений) и журнал выполненных тренировок хранятся только на вашем iPhone. Они удаляются вместе с приложением.
 
 **Apple Health («Здоровье»).** Если вы включите «Записывать в «Здоровье»», приложение сохраняет в Apple Health завершённые тренировки: тип, время начала и окончания, паузы. Приложение не читает другие ваши данные из «Здоровья». Данные HealthKit не передаются третьим лицам, не используются для рекламы и не покидают устройство через приложение. Доступ можно отозвать в любой момент: Настройки → Здоровье → Доступ к данным и устройства → WOD Timer.
+
+**ИИ-ассистент.** Вес, рост, самочувствие, цель и инвентарь, которые вы указываете ассистенту, хранятся только на iPhone. Тренировку собирает модель Apple Intelligence прямо на устройстве или встроенный алгоритм; эти данные никуда не отправляются. Советы ассистента не являются медицинской рекомендацией.
 
 **Apple Music.** Доступ к медиатеке используется только для того, чтобы показывать ваши плейлисты и управлять воспроизведением во время тренировки. Сведения о медиатеке никуда не передаются.
 
@@ -28,6 +30,8 @@ WOD Timer не збирає, не передає і не продає ваші �
 
 **Apple Health («Здоровʼя»).** Якщо ви увімкнете «Записувати в «Здоровʼя»», застосунок зберігає в Apple Health завершені тренування: тип, час початку й завершення, паузи. Застосунок не читає інші ваші дані зі «Здоровʼя». Дані HealthKit не передаються третім особам, не використовуються для реклами й не залишають пристрій через застосунок. Доступ можна відкликати будь-коли: Параметри → Здоровʼя → Доступ до даних і пристрої → WOD Timer.
 
+**ШІ-асистент.** Вага, зріст, самопочуття, мета й інвентар, які ви вказуєте асистентові, зберігаються лише на iPhone. Тренування складає модель Apple Intelligence просто на пристрої або вбудований алгоритм; ці дані нікуди не надсилаються. Поради асистента не є медичною рекомендацією.
+
 **Apple Music.** Доступ до медіатеки використовується лише для показу ваших плейлистів і керування відтворенням під час тренування. Відомості про медіатеку нікуди не передаються.
 
 **Діти.** Застосунок не збирає даних, зокрема даних дітей.
@@ -43,6 +47,8 @@ WOD Timer does not collect, share, or sell your personal data. The app has no ac
 **Data stored on your device.** Your workout settings (rounds, work and rest times, exercise names) and your workout log are stored only on your iPhone and are deleted when you delete the app.
 
 **Apple Health.** If you turn on “Save to Health”, the app saves completed workouts to Apple Health: workout type, start and end time, and pauses. The app does not read any other Health data. HealthKit data is never shared with third parties, never used for advertising, and never leaves your device through the app. You can revoke access at any time in Settings → Health → Data Access & Devices → WOD Timer.
+
+**AI assistant.** The weight, height, fatigue, goal, and equipment you enter for the assistant are stored only on your iPhone. Workouts are built by the on-device Apple Intelligence model or a built-in algorithm; this data is never sent anywhere. The assistant’s suggestions are not medical advice.
 
 **Apple Music.** Library access is used only to show your playlists and control playback during a workout. No library information is shared.
 
